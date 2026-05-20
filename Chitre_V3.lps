@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release">
+      <Item Name="Release">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <PathDelim Value="\"/>
+          <Target>
+            <Filename Value="Chitre_V3"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir)"/>
+            <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <CodeGeneration>
+            <SmartLinkUnit Value="True"/>
+            <Optimizations>
+              <OptimizationLevel Value="3"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <GenerateDebugInfo Value="False"/>
+              <RunWithoutDebug Value="True"/>
+              <StripSymbols Value="True"/>
+            </Debugging>
+            <LinkSmart Value="True"/>
+            <Options>
+              <Win32>
+                <GraphicApplication Value="True"/>
+              </Win32>
+            </Options>
+          </Linking>
+        </CompilerOptions>
+      </Item>
+    </BuildModes>
+    <Units>
+      <Unit>
+        <Filename Value="Chitre_V3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="289"/>
+        <CursorPos X="6" Y="307"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="6" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="317" Column="6" TopLine="288"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="320" TopLine="288"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="290" TopLine="287"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="289" TopLine="286"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="291" Column="5" TopLine="287"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="322" Column="29" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="319" Column="39" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="274" Column="3" TopLine="272"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="283" Column="3" TopLine="272"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="263" Column="58" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="264" Column="18" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="312" Column="11" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="310" Column="7" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="306" Column="12" TopLine="310"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="9" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="300" Column="52" TopLine="293"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="298" Column="48" TopLine="293"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="9" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="328" Column="3" TopLine="309"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="42" Column="79" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="310" Column="27" TopLine="293"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="42" Column="34" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="56" Column="45" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="50" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="48" Column="8" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="289" TopLine="289"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="WorkingDirectory" Type="File" Count="1"/>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="1"/>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
