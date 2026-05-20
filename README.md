@@ -15,7 +15,7 @@ Un petit logiciel en **Lazarus (Free Pascal)** qui convertit les chiffres en let
 
 ## Captures d'écran
 
-![Interface principale] <img width="451" height="297" alt="image" src="https://github.com/user-attachments/assets/027c278b-11d4-4b6e-9932-369b36be1805" />
+<img width="451" height="297" alt="image" src="https://github.com/user-attachments/assets/027c278b-11d4-4b6e-9932-369b36be1805" />
 
 
 ## Comment compiler
