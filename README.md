@@ -33,7 +33,7 @@ Idéal pour les factures, les chèques, les quittances et les documents administ
 ## 📥 Téléchargement
 
 - **[Télécharger l'exécutable Windows] 
-(https://github.com/Ahmedkz917/Chitre-v3.0/releases](https://github.com/Ahmedkz917/Chitre-v3.0/blob/main/Chitre_V3.exe)**
+(https://github.com/Ahmedkz917/Chitre-v3.0/blob/main/Chitre_V3.exe)**
 
 ---
 
